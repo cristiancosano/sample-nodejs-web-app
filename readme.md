@@ -1,4 +1,4 @@
-# Sampe Node.js Web App
+# Sample Node.js Web App
 
 Simple application to test Node.js, Express.js and Handlebars.
 
